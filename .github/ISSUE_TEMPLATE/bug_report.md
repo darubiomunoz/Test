@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug Report
-description: Create a report to help us improve the project.
+about: Create a report to help us improve the project.
 title: "[BUG] "
 labels: bug
 assignees: ''
